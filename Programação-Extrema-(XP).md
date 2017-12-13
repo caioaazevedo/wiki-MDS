@@ -176,10 +176,30 @@ Pode-se se dizer que é uma metodologia bastante volátil. Portanto, para que se
  
 # Equipe XP
 
+#### Cliente:
+
+<p align = "justify">O cliente é responsável por tomar todas as decisões comerciais relativas ao projeto, incluindo:</p>
+* O que o sistema deve fazer (quais recursos estão incluídos e o que eles realizam)?
+* Como sabemos quando o sistema está pronto (quais são nossos critérios de aceitação)?
+* Quanto devemos gastar (qual é o financiamento disponível, o que é o caso de negócios)?
+* O que devemos fazer em seguida (em que ordem entregamos esses recursos)?
+* Espera-se que o cliente XP esteja ativamente envolvido no projeto e, idealmente, se torna parte da equipe.
+
+<p align = "justify">O Cliente XP é considerado como sendo uma pessoa única, no entanto, a experiência mostrou que uma pessoa não pode fornecer adequadamente todas as informações relacionadas a negócios sobre um projeto. Sua equipe precisa se certificar de que você tenha uma imagem completa da perspectiva do negócio, mas tenha algum meio de lidar com conflitos nessas informações para que você possa obter uma direção clara.</p>
+
+### Desenvolvedor:
+
+<p align = "justify">Como o XP não tem muita necessidade de definição de função, todos os membros da equipe (com exceção do cliente e alguns dos papéis secundários listados abaixo) são rotulados como desenvolvedores. Os desenvolvedores são responsáveis pela realização das histórias identificadas pelo Cliente. Uma vez que os diferentes projetos requerem uma combinação diferente de habilidades, e porque o método XP depende de uma equipe multifuncional proporcionando a combinação apropriada de habilidades, os criadores do XP não sentiram necessidade de uma maior definição de função.</p>
 
 #### Tracker:
 
-<p align = "justify">O Tracker é muitas vezes um dos desenvolvedores que gasta parte do seu tempo cada semana, preenchendo um papel extra. O objetivo principal desse papel é acompanhar as métricas relevantes que a equipe se sente necessária para rastrear seu progresso e identificar áreas para melhoria. As métricas-chave que sua equipe pode acompanhar incluem o velocity, razões para mudanças no velocity, quantidade de horas extras trabalhadas e testes de aprovação e falha.</p> 
+<p align = "justify">O Tracker é muitas vezes um dos desenvolvedores que gasta parte do seu tempo cada semana, preenchendo um papel extra. O objetivo principal desse papel é acompanhar as métricas relevantes que a equipe se sente necessária para rastrear seu progresso e identificar áreas para melhoria. As métricas-chave que sua equipe pode acompanhar incluem o velocity, razões para mudanças no velocity, quantidade de horas extras trabalhadas e testes de aprovação e falha.</p>
+
+### Coach:
+
+<p align = "justify">Se sua equipe está começando a aplicar o XP, você pode achar útil incluir um coach/treinador em sua equipe. Geralemnte é um consultor externo ou alguém de outra parte da sua organização que já usou o XP antes e pode ser integrado a sua equipe para ajudar a orientar os outros membros da equipe no XP Practices, e para ajudar sua equipe a manter sua autodisciplina.
+O principal valor do coach/treinador é que eles passaram por isso antes e podem ajudar sua equipe a evitar erros que a maioria dos novos times fazem.</p>
+
 
 ## Referências
 * [Desenvolvimento Ágil](http://www.desenvolvimentoagil.com.br/xp/valores/)
