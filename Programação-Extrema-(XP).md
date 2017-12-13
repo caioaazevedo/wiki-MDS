@@ -26,9 +26,11 @@
 
 [ Equipe XP ](#equipe-xp)
 
-* [ Coach ](#coach)
 * [ Cliente ](#cliente)
+* [ Desenvolvedor ](#desenvolvedor)
 * [ Tracker ](#tracker)
+* [ Coach ](#coach)
+
 
 
 [ Referências](#referências)
@@ -176,7 +178,7 @@ Pode-se se dizer que é uma metodologia bastante volátil. Portanto, para que se
  
 # Equipe XP
 
-#### Cliente:
+### Cliente:
 
 <p align = "justify">O cliente é responsável por tomar todas as decisões comerciais relativas ao projeto, incluindo:</p>
 * O que o sistema deve fazer (quais recursos estão incluídos e o que eles realizam)?
@@ -191,7 +193,7 @@ Pode-se se dizer que é uma metodologia bastante volátil. Portanto, para que se
 
 <p align = "justify">Como o XP não tem muita necessidade de definição de função, todos os membros da equipe (com exceção do cliente e alguns dos papéis secundários listados abaixo) são rotulados como desenvolvedores. Os desenvolvedores são responsáveis pela realização das histórias identificadas pelo Cliente. Uma vez que os diferentes projetos requerem uma combinação diferente de habilidades, e porque o método XP depende de uma equipe multifuncional proporcionando a combinação apropriada de habilidades, os criadores do XP não sentiram necessidade de uma maior definição de função.</p>
 
-#### Tracker:
+### Tracker:
 
 <p align = "justify">O Tracker é muitas vezes um dos desenvolvedores que gasta parte do seu tempo cada semana, preenchendo um papel extra. O objetivo principal desse papel é acompanhar as métricas relevantes que a equipe se sente necessária para rastrear seu progresso e identificar áreas para melhoria. As métricas-chave que sua equipe pode acompanhar incluem o velocity, razões para mudanças no velocity, quantidade de horas extras trabalhadas e testes de aprovação e falha.</p>
 
