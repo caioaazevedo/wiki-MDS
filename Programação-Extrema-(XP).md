@@ -178,9 +178,12 @@ Pode-se se dizer que é uma metodologia bastante volátil. Portanto, para que se
  
 # Equipe XP
 
+<p align="justify">Uma equipe de XP deve reunir todas as habilidades técnicas e de negócios. Cada membro assume responsabilidades de acordo com suas especialidades e seu interesse em aprender. A metodologia oferece meios para a disseminação de conhecimento e estimula o crescimento profissional de todos os participantes. Os desenvolvedores e os clientes fazem parte da mesma equipe e trabalham juntos para construir software de alta qualidade que atenda às necessidades do negócio. Para garantir que aspectos importantes da metodologia estejam presentes alguns papéis tem de ser assumidos na equipe como o Coach, o Cliente, o Desenvolvedor e o Tracker.</p>
+
 ### Cliente:
 
 <p align = "justify">O cliente é responsável por tomar todas as decisões comerciais relativas ao projeto, incluindo:</p>
+
 * O que o sistema deve fazer (quais recursos estão incluídos e o que eles realizam)?
 * Como sabemos quando o sistema está pronto (quais são nossos critérios de aceitação)?
 * Quanto devemos gastar (qual é o financiamento disponível, o que é o caso de negócios)?
