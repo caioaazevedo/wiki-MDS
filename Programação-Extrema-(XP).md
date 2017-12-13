@@ -24,6 +24,13 @@
 * [ Teste de aceitação](#teste-de-aceitação)
 * [ Integração Contínua](#integração-contínua)
 
+[ Equipe XP ](#equipe-xp)
+
+* [ Coach ](#coach)
+* [ Cliente ](#cliente)
+* [ Tracker ](#tracker)
+
+
 [ Referências](#referências)
 
 ----
@@ -166,6 +173,13 @@ Pode-se se dizer que é uma metodologia bastante volátil. Portanto, para que se
 <p align="justify">Nesse contexto de código compartilhado e versionamento centralizado por uma ferramenta, a integração contínua, ou seja, a comunicação entre as partes que cada desenvolvedor construiu, permite que conflitos de versão sejam resolvidos mais rápido, desde que a integração ocorra continuamente.
 
 <p align="justify">A chave para uma boa integração, como visto anteriormente, é um ambiente de controle de versão centralizado, <i>builds</i> e testes automatizados. Essa prática reduz erros e riscos cometidos pela equipe, pois como o sistema é integrado contínua e rapidamente, os erros também são detectados na mesma velocidade.
+ 
+# Equipe XP
+
+
+#### Tracker:
+
+<p align = "justify">O Tracker é muitas vezes um dos desenvolvedores que gasta parte do seu tempo cada semana, preenchendo um papel extra. O objetivo principal desse papel é acompanhar as métricas relevantes que a equipe se sente necessária para rastrear seu progresso e identificar áreas para melhoria. As métricas-chave que sua equipe pode acompanhar incluem o velocity, razões para mudanças no velocity, quantidade de horas extras trabalhadas e testes de aprovação e falha.</p> 
 
 ## Referências
 * [Desenvolvimento Ágil](http://www.desenvolvimentoagil.com.br/xp/valores/)
